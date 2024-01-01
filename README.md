@@ -45,7 +45,7 @@ Certifique-se de ter [Node.js](https://nodejs.org/) e [Yarn](https://yarnpkg.com
 1. Clone o repositório:
 
     ```bash
-    git clone [https://github.com/KinooYu/Project-Archint.git](https://github.com/KinooYu/Project-Archint.git)
+    git clone https://github.com/KinooYu/Project-Archint.git
     cd Archint
     ```
 
