@@ -1,5 +1,7 @@
 # Projeto Archint 👩‍💻
 
+## ❗ Após mudar a tela para modo mobile ou desktop no inspect do seu navegador, atualize a página para que a mudança de tela seja feita corretamente.
+
 ## 📌 Índice
 1. [Descrição](#descricao)
 2. [Tecnologias Utilizadas](#tecnologias)
@@ -11,6 +13,7 @@
     1. [Pré-requisitos](#pre-requisitos)
     2. [Instruções](#instrucoes)
     3. [Observações](#observacoes)
+
 
 ## Descrição <a name="descricao"></a>
 
